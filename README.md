@@ -1,4 +1,6 @@
-# GuidedHacking DLL Injector Library
+**This is just an fork, it is not mine.**
+
+# GuidedHacking DLL Injector Library [Fork]
 
 A feature-rich DLL injection library which supports x86, WOW64 and x64 injections.
 Developed by [Broihon](https://guidedhacking.com/members/broihon.49430/) for Guided Hacking.
